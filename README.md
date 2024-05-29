@@ -12,7 +12,7 @@ from [here](https://papermc.io/downloads/all) for developing plugins for ifheroe
 ## Velocity
 Current Velocity version for Minecraft plugin development on our server. 
 ```
-Velocity 3.3.0 build 385
+Velocity 3.3.0 build 394
 ```
 from [here](https://papermc.io/downloads/all) for developing plugins for ifheroes.
 
